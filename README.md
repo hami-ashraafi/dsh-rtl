@@ -3,7 +3,7 @@
 Right-to-left, right-aligned text for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) chat —
 built for Persian and Arabic conversations that the default LTR transcript renders badly.
 
-[فارسی](#فارسی) · English
+[فارسی](README.fa.md) · English
 
 A small DSH profile bundle: a Host half that does nothing, plus a Client module that
 registers one stylesheet and removes it on dispose. No fork of the harness, no patched
@@ -112,36 +112,5 @@ standalone bundle rather than a patch to the harness sources.
 
 ---
 
-## فارسی
-
-**متن راست‌به‌چپ و راست‌چین برای چت DeepSeek Harness**، برای گفت‌وگوهای فارسی و عربی که چیدمان
-پیش‌فرض چپ‌به‌راست بد نمایششان می‌دهد.
-
-یک باندل کوچک DSH است: نیمهٔ Host کاری نمی‌کند و نیمهٔ Client فقط یک استایل را ثبت و هنگام
-غیرفعال‌شدن پاک می‌کند. نه هارنس را فورک می‌کند، نه فایل‌های نصب‌شده را دست می‌زند.
-
-### چه چیزی عوض می‌شود
-
-- پیام‌های دستیار (Markdown) و حباب پیام شما: راست‌به‌چپ و راست‌چین.
-- لیست‌ها: بولت/شماره از سمت راست و تورفتگی آینه‌شده.
-- بلوک کد، کد درون‌خطی و فرمول‌ها: چپ‌چین و `isolate` تا نقطه‌گذاری‌شان ترتیب جملهٔ فارسی را
-  به‌هم نزند.
-- کادر نوشتن: هنگام تایپ فارسی، راست‌به‌چپ.
-- سایدبار، تب‌ها، تولبار و تنظیمات دست‌نخورده می‌مانند.
-
-### نصب
-
-1. در سایدبار **Plugins** → **Add plugin**.
-2. آدرس مخزن را پیست کنید: `https://github.com/hami-ashraafi/dsh-rtl`
-   (یا مسیر مطلق پوشهٔ همین مخزن روی دیسک).
-3. نصب کنید و سپس باندل **Right-to-left Chat** را روشن کنید.
-
-اگر مدیر پلاگین `restart-required` داد، برنامه را ببندید و دوباره باز کنید.
-
-### حذف
-
-**Plugins** → **Right-to-left Chat** → **Remove**.
-
-### مجوز
-
-[MIT](LICENSE) © ۲۰۲۶ hami masoud
+**فارسی:** توضیح کامل فارسی — نصب، حذف، سازگاری و عیب‌یابی — در
+[README.fa.md](README.fa.md) است.
