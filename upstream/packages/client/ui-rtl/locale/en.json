@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Right-to-left chat",
+    "description": "Reads Chat messages right-to-left and right-aligned for Persian and Arabic, while code stays left-to-right."
+  }
+}

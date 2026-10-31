@@ -104,7 +104,10 @@ to fill that gap. It follows the project's documented path for community plugins
   which the project uses instead of issues.
 
 The upstream repository has issues and pull requests disabled, so this is distributed as a
-standalone bundle rather than a patch to the harness sources.
+standalone bundle rather than a patch to the harness sources. The same plugin is also staged
+in the upstream package shape under [`upstream/`](upstream/README.md) — `packages/client/ui-rtl`
+with the repository's TypeScript, tsconfig, and `?inline` CSS conventions — ready to apply if
+that repository starts accepting contributions.
 
 ## License
 
