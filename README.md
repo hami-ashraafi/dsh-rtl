@@ -29,7 +29,7 @@ The bundle is installed the same way as any other DSH plugin — no build step.
 ### From this repository
 
 1. **Plugins** in the left sidebar → **Add plugin**.
-2. Paste the repository address: `https://github.com/<owner>/dsh-rtl`
+2. Paste the repository address: `https://github.com/hami-ashraafi/dsh-rtl`
 3. Install, then switch **Right-to-left Chat** on.
 
 ### From a local checkout
@@ -132,7 +132,7 @@ standalone bundle rather than a patch to the harness sources.
 ### نصب
 
 1. در سایدبار **Plugins** → **Add plugin**.
-2. آدرس مخزن را پیست کنید: `https://github.com/<owner>/dsh-rtl`
+2. آدرس مخزن را پیست کنید: `https://github.com/hami-ashraafi/dsh-rtl`
    (یا مسیر مطلق پوشهٔ همین مخزن روی دیسک).
 3. نصب کنید و سپس باندل **Right-to-left Chat** را روشن کنید.
 
