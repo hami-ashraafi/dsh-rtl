@@ -100,7 +100,7 @@ to fill that gap. It follows the project's documented path for community plugins
 - the repository carries the [`dsh-plugin`](https://github.com/topics/dsh-plugin) topic, which
   the Harness README names as the discoverability mechanism;
 - it is announced in
-  [DeepSeek Harness Discussions](https://github.com/deepseek-ai/deepseek-harness/discussions),
+  [DeepSeek Harness Discussions #11672](https://github.com/deepseek-ai/deepseek-harness/discussions/11672),
   which the project uses instead of issues.
 
 The upstream repository has issues and pull requests disabled, so this is distributed as a
